@@ -1,0 +1,92 @@
+.container-fluid{
+	padding: 3% 5% 7%;
+}
+#title{
+	background-color: #f1f1f1;
+	padding: 1% 5% 1% 30%;
+}
+#navbar{
+	background-color: black;
+}
+.nav-item{
+	margin: 0em 6em 0em 6em;
+}
+#news{
+	position: relative;
+	z-index: 1;
+}
+.column {
+  float: left;
+}
+#waste{
+	background-color: #f1f1f1;
+	padding: 1%;
+}
+hr{
+	color: white;
+}
+.left, .right {
+  width: 20%;
+  padding: 2% 3% 2% 3%;
+  background-color:  black;
+  overflow-wrap: break-word;
+  text-align: center;
+}
+
+.middle {
+  width: 60%;
+  padding: 2% 3% 2% 3%;
+  background-color: white;
+  text-align: center;
+}
+.middle p{
+	text-align: justify;
+}
+.left p{
+	text-align: justify;
+	color: white;
+	opacity: 0.5;
+}
+.right p{
+	text-align: justify;
+	color: white;
+	opacity: 0.5;
+}
+
+.middle img{
+	padding: 3%;
+}
+.left img{
+	padding: 3%;
+}
+.right img{
+	padding: 3%;
+	width: 100%;
+   height: auto;
+}
+
+#testimonials{
+	
+	background-color:#f1f1f1;
+}
+.carousel-item{
+	padding: 10%;
+
+}
+#footer{
+	text-align: center;
+	padding: 1% 15%;
+	background-color: #f1f1f1;
+
+}
+h4{
+	color: #ffa62b;
+	padding-bottom: 3%;
+	opacity: 0.9;
+}
+.middle h4{
+	padding-top: 2%;
+	color: black;
+}
+
+
